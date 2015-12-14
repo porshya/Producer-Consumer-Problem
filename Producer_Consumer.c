@@ -1,3 +1,7 @@
+// Kevin Liu
+// 2015
+// Computer Systems
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h> // for rand
